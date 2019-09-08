@@ -1,0 +1,9 @@
+Started on Sep 8, 2019 7:21:00 PM
+Using strategy: Default
+No credentials specified
+ > git.exe --version # timeout=10
+ > git.exe ls-remote -h https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL # timeout=10
+Found 1 remote heads on https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL
+[poll] Latest remote head revision on refs/heads/master is: b133824d42f6200a693d089e1c559e5c7b66ab6f
+Done. Took 1.7 sec
+Changes found
