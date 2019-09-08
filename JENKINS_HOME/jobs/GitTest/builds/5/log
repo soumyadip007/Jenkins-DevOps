@@ -1,0 +1,36 @@
+Started by an SCM change
+Running as SYSTEM
+Building in workspace E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest
+No credentials specified
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL # timeout=10
+Fetching upstream changes from https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 83055bb2fdc0b66a1b58e0214b89346807ac2807 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 83055bb2fdc0b66a1b58e0214b89346807ac2807
+Commit message: "War package added"
+ > git.exe rev-list --no-walk b133824d42f6200a693d089e1c559e5c7b66ab6f # timeout=10
+[GitTest] $ cmd /c call C:\Users\SOUMYA~1\AppData\Local\Temp\jenkins7347620177955768437.bat
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest>cd .. 
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace>cd .. 
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME>cd .. 
+
+E:\Jenkins\Jenkins-DevOps>cd .. 
+
+E:\Jenkins>cd .. 
+
+E:\>javac test.java 
+
+E:\>java test 
+Hello, World
+
+E:\>exit 0 
+Finished: SUCCESS

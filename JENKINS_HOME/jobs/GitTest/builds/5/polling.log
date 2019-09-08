@@ -1,10 +1,10 @@
-Started on Sep 8, 2019 8:06:00 PM
+Started on Sep 8, 2019 8:05:00 PM
 Using strategy: Default
-[poll] Last Built Revision: Revision 83055bb2fdc0b66a1b58e0214b89346807ac2807 (refs/remotes/origin/master)
+[poll] Last Built Revision: Revision b133824d42f6200a693d089e1c559e5c7b66ab6f (refs/remotes/origin/master)
 No credentials specified
  > git.exe --version # timeout=10
  > git.exe ls-remote -h https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL # timeout=10
 Found 1 remote heads on https://github.com/soumyadip007/E-Medical-System-Web-Project-Using-Spring-Boot-Security-MVC-Hibernate-JPA-Rest-Thymeleaf-HQL
-[poll] Latest remote head revision on refs/heads/master is: 83055bb2fdc0b66a1b58e0214b89346807ac2807 - already built by 5
-Done. Took 1 sec
-No changes
+[poll] Latest remote head revision on refs/heads/master is: 83055bb2fdc0b66a1b58e0214b89346807ac2807
+Done. Took 0.99 sec
+Changes found
