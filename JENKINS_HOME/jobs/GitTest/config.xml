@@ -1,5 +1,6 @@
 <?xml version='1.1' encoding='UTF-8'?>
 <project>
+  <actions/>
   <description></description>
   <keepDependencies>false</keepDependencies>
   <properties/>
@@ -12,7 +13,11 @@
   <concurrentBuild>false</concurrentBuild>
   <builders>
     <hudson.tasks.BatchFile>
-      <command>cd /john&#xd;
+      <command>cd ..&#xd;
+cd ..&#xd;
+cd ..&#xd;
+cd ..&#xd;
+cd ..&#xd;
 javac test.java&#xd;
 java test</command>
     </hudson.tasks.BatchFile>
