@@ -1,0 +1,19 @@
+Started by user [8mha:////4GURA9fXjv8Il02FRGb7ch6AUYNZ71SnpAIQYvQVYJmrAAAAmx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZ+/dLi1CL94vzS3MrElMwCAB9UAmTEAAAA[0mSoumyadip Chowdhury
+Running as SYSTEM
+Building in workspace E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest
+[GitTest] $ cmd /c call C:\Users\SOUMYA~1\AppData\Local\Temp\jenkins196992095119742512.bat
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest>cd /john 
+The system cannot find the path specified.
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest>javac test.java 
+javac: file not found: test.java
+Usage: javac <options> <source files>
+use -help for a list of possible options
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest>java test 
+Error: Could not find or load main class test
+
+E:\Jenkins\Jenkins-DevOps\JENKINS_HOME\workspace\GitTest>exit 1 
+Build step 'Execute Windows batch command' marked build as failure
+Finished: FAILURE
